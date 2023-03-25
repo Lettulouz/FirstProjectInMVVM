@@ -1,0 +1,8 @@
+﻿<Application x:Class="Projekt_v0._04.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Projekt_v0._04">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

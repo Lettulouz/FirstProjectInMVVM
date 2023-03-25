@@ -1,0 +1,209 @@
+<UserControl x:Class="Projekt_v0._04.Views.ShowReservationsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Projekt_v0._04.Views"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="154*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="734*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" Background="Tan">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image 
+                Grid.Row="1" 
+                Grid.Column="1"
+                Stretch="Uniform" 
+                Source="/Resources/logo_transparent.png" 
+                VerticalAlignment="Stretch" 
+                HorizontalAlignment="Stretch">
+            </Image>
+            <Button 
+                Grid.Row="3" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Wyszukiwarka hoteli"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Glowna">
+            </Button>
+            <Button 
+                Grid.Row="5" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="O nas"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="ONas">
+            </Button>
+            <Button 
+                Grid.Row="7" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Logowanie"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Logowanie">
+            </Button>
+            <Button 
+                Grid.Row="9" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Wyjście"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Wyjscie">
+            </Button>
+        </Grid>
+        <Frame 
+            Grid.Row="0" 
+            Grid.Column="1" 
+            x:Name="SeparationFrameBorder1" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="Gray"/>
+        <Frame 
+            Grid.Row="0" 
+            Grid.Column="2" 
+            x:Name="SeparationFrame" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="DarkGray"/>
+        <Frame
+            Grid.Row="0" 
+            Grid.Column="3" 
+            x:Name="SeparationFrameBorder2" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="Gray"/>
+        <Grid Grid.Row="0" Grid.Column="4" Background="Wheat">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*"/>
+                <RowDefinition Height="96*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" 
+                   Grid.Column="1" 
+                   Grid.ColumnSpan="2" 
+                   Name="LoggedUser" 
+                   Content="{Binding LoggedUser}" 
+                   ContentStringFormat="{}Użytkownik:    {0:F2}" 
+                   VerticalAlignment="Top" 
+                   VerticalContentAlignment="Top" 
+                   HorizontalAlignment="Right" 
+                   HorizontalContentAlignment="Right" 
+                   FontSize="30" FontWeight="Bold" 
+                   Opacity="0.3" 
+                   Margin=" 0 0 20 0"/>
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="9*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <ListView Name="lista" Grid.Row="0" Margin="0 0 0 50" FontSize="30" SelectionMode="Single" SelectedItem="{Binding SelectedItem, UpdateSourceTrigger=PropertyChanged}" ItemsSource="{Binding ReservationsListShow, UpdateSourceTrigger=PropertyChanged}">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Miasto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Miasto}" HorizontalAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <GridViewColumn Header="Hotel">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Hotel}" HorizontalAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <GridViewColumn Header="Pokój">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Pokoj}" HorizontalAlignment="Center"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <GridViewColumn Header="Użytkownik">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Uzytkownik}" Padding="0 0 20 0"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <GridViewColumn Header="Data przyjazdu">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding DataPrzyjazdu}" Padding="0 0 20 0"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <GridViewColumn Header="Data wyjazdu">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding DataWyjazdu}" Padding="0 0 20 0"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <GridViewColumn Header="Czy potwierdzona">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding RezerwacjaPotwierdzona}" Padding="0 0 20 0"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+                <Button Grid.Row="1" 
+                        Command="{Binding ChangeViewCommand}" 
+                        CommandParameter="AdminPotwierdźRezerwację" 
+                        Content="Potwierdź rezerwację użytkownika" 
+                        FontSize="36"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

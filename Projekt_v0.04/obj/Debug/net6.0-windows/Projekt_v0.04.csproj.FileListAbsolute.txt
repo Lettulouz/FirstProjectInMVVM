@@ -1,0 +1,425 @@
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04 — kopia\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ShowReservationsView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ShowReservationsView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ShowReservationsView.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ShowReservationsView.baml
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+C:\Users\Dominik\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.exe
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.deps.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.runtimeconfig.json
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\EntityFramework.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\MySqlConnector.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.AssemblyReference.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ShowReservationsView.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\App.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04_MarkupCompile.lref
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Components\BindablePasswordBox.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\AboutUsView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelInfoView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\HotelsBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\LoginView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\MainBrowserView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationSumUpView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ReservationView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Views\ShowReservationsView.baml
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.g.resources
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.GeneratedMSBuildEditorConfig.editorconfig
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfoInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.AssemblyInfo.cs
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CoreCompileInputs.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.csproj.CopyComplete
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\refint\Projekt_v0.04.dll
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.pdb
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\Projekt_v0.04.genruntimeconfig.cache
+Z:\OneDrive - Prywatny\OneDrive\Komputer\Projekt_v0.04\Projekt_v0.04\Projekt_v0.04\obj\Debug\net6.0-windows\ref\Projekt_v0.04.dll

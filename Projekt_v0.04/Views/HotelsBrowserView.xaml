@@ -1,0 +1,283 @@
+<UserControl x:Class="Projekt_v0._04.Views.HotelsBrowserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Projekt_v0._04.Views"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="154*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="734*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" Background="Tan">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image 
+                Grid.Row="1" 
+                Grid.Column="1"
+                Stretch="Uniform" 
+                Source="/Resources/logo_transparent.png" 
+                VerticalAlignment="Stretch" 
+                HorizontalAlignment="Stretch">
+            </Image>
+            <Button 
+                Grid.Row="3" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Wyszukiwarka hoteli"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Glowna">
+            </Button>
+            <Button 
+                Grid.Row="5" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="O nas"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="ONas">
+            </Button>
+            <Button 
+                Grid.Row="7" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Logowanie"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Logowanie">
+            </Button>
+            <Button 
+                Grid.Row="9" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Wyjście"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Wyjscie">
+            </Button>
+        </Grid>
+        <Frame 
+            Grid.Row="0" 
+            Grid.Column="1" 
+            x:Name="SeparationFrameBorder1" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="Gray"/>
+        <Frame 
+            Grid.Row="0" 
+            Grid.Column="2" 
+            x:Name="SeparationFrame" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="DarkGray"/>
+        <Frame
+            Grid.Row="0" 
+            Grid.Column="3" 
+            x:Name="SeparationFrameBorder2" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="Gray"/>
+        <Grid Grid.Row="0" Grid.Column="4" Background="Wheat">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" 
+                   Grid.Column="1" 
+                   Grid.ColumnSpan="2" 
+                   Name="LoggedUser" 
+                   Content="{Binding LoggedUser}" 
+                   ContentStringFormat="{}Użytkownik:    {0:F2}" 
+                   VerticalAlignment="Top" 
+                   VerticalContentAlignment="Top" 
+                   HorizontalAlignment="Right" 
+                   HorizontalContentAlignment="Right" 
+                   FontSize="30" 
+                   FontWeight="Bold" 
+                   Opacity="0.3" 
+                   Margin=" 0 0 20 0"/>
+            <Label Grid.Row="1" Grid.Column="1" 
+                   Content="{Binding SelectedCity}" 
+                   ContentStringFormat="{}Aktualnie szukasz w:    {0:F2}" 
+                   FontSize="30" 
+                   FontWeight="Bold" 
+                   Opacity="0.5"/>
+           <Button Grid.Row="2" Grid.Column="1" 
+                   Name="Wyszukanie1" 
+                   Margin="2" 
+                   Opacity="{Binding Wyszukanie1Przejrzystosc}" 
+                   IsEnabled="{Binding IsEnabled1}"
+                   HorizontalContentAlignment="Stretch"
+                   Command="{Binding ChangeViewCommand}"
+                   CommandParameter="WybierzHotel1">
+               <Grid>
+                   <Grid.ColumnDefinitions>
+                       <ColumnDefinition Width="*"/>
+                       <ColumnDefinition Width="2*"/>
+                       <ColumnDefinition Width="2*"/>
+                       <ColumnDefinition Width="2*"/>
+                   </Grid.ColumnDefinitions>
+                   <Image Grid.Column="0" 
+                          Source="{Binding Zdjecie1}" 
+                          Margin="2" 
+                          Stretch="Fill"
+                          HorizontalAlignment="Left"
+                          VerticalAlignment="Center"/>
+                   <Label Grid.Column="1" 
+                          Content="{Binding NazwaHotelu1}" 
+                          Margin="20" 
+                          HorizontalAlignment="Center" 
+                          HorizontalContentAlignment="Center" 
+                          VerticalAlignment="Center" 
+                          VerticalContentAlignment="Center" 
+                          FontSize="26" 
+                          FontWeight="Bold"/>
+                   <Grid Grid.Column="2">
+                       <Grid.RowDefinitions>
+                           <RowDefinition Height="*"/>
+                           <RowDefinition Height="*"/>
+                           <RowDefinition Height="*"/>
+                           <RowDefinition Height="*"/>
+                           <RowDefinition Height="*"/>
+                       </Grid.RowDefinitions>
+                       <Label Grid.Row="0" Content="Udogodnienia:" Margin="0 5 0 5" Opacity="0.6"/>
+                       <Label Grid.Row="1" Content="{Binding Atrybut122}" Margin="0 5 0 5"/>
+                       <Label Grid.Row="2" Content="{Binding Atrybut123}" Margin="0 5 0 5"/>
+                       <Label Grid.Row="3" Content="{Binding Atrybut124}" Margin="0 5 0 5"/>
+                       <Label Grid.Row="4" Content="{Binding Atrybut125}" Margin="0 5 0 5"/>
+                   </Grid>
+               </Grid>
+           </Button>
+            
+            <Button Grid.Row="3" Grid.Column="1" 
+                    Name="Wyszukanie2" 
+                    Margin="2" 
+                    Opacity="{Binding Wyszukanie2Przejrzystosc}" 
+                    IsEnabled="{Binding IsEnabled2}"
+                    HorizontalContentAlignment="Stretch"
+                    Command="{Binding ChangeViewCommand}"
+                    CommandParameter="WybierzHotel2">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" 
+                           Source="{Binding Zdjecie2}" 
+                           Margin="2"
+                           Stretch="Fill"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"/>
+                    <Label Grid.Column="1" 
+                           Content="{Binding NazwaHotelu2}" 
+                           Margin="20" 
+                           HorizontalAlignment="Center" 
+                           HorizontalContentAlignment="Center" 
+                           VerticalAlignment="Center" 
+                           VerticalContentAlignment="Center" 
+                           FontSize="26" 
+                           FontWeight="Bold"/>
+                    <Grid Grid.Column="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Row="0" Content="Udogodnienia:" Margin="0 5 0 5" Opacity="0.6"/>
+                        <Label Grid.Row="1" Content="{Binding Atrybut222}" Margin="0 5 0 5"/>
+                        <Label Grid.Row="2" Content="{Binding Atrybut223}" Margin="0 5 0 5"/>
+                        <Label Grid.Row="3" Content="{Binding Atrybut224}" Margin="0 5 0 5"/>
+                        <Label Grid.Row="4" Content="{Binding Atrybut225}" Margin="0 5 0 5"/>
+                    </Grid>
+                </Grid>  
+               
+            </Button>
+            
+            <Button Grid.Row="4" Grid.Column="1" 
+                    Name="Wyszukanie3" 
+                    Margin="2" 
+                    Opacity="{Binding Wyszukanie3Przejrzystosc}" 
+                    IsEnabled="{Binding IsEnabled3}"
+                    HorizontalContentAlignment="Stretch" 
+                    Command="{Binding ChangeViewCommand}" 
+                    CommandParameter="WybierzHotel3">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Grid.Column="0" 
+                           Source="{Binding Zdjecie3}" 
+                           Margin="2" 
+                           Stretch="Fill"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"/>
+                    <Label Grid.Column="1" 
+                           Content="{Binding NazwaHotelu3}" 
+                           Margin="20" 
+                           HorizontalAlignment="Center" 
+                           HorizontalContentAlignment="Center" 
+                           VerticalAlignment="Center" 
+                           VerticalContentAlignment="Center" 
+                           FontSize="26" 
+                           FontWeight="Bold"/>
+                    <Grid Grid.Column="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Row="0" Content="Udogodnienia:" Margin="0 5 0 5" Opacity="0.6"/>
+                        <Label Grid.Row="1" Content="{Binding Atrybut322}" Margin="0 5 0 5"/>
+                        <Label Grid.Row="2" Content="{Binding Atrybut323}" Margin="0 5 0 5"/>
+                        <Label Grid.Row="3" Content="{Binding Atrybut324}" Margin="0 5 0 5"/>
+                        <Label Grid.Row="4" Content="{Binding Atrybut325}" Margin="0 5 0 5"/>
+                    </Grid>
+                </Grid> 
+            </Button>
+        </Grid>
+    </Grid>
+</UserControl>

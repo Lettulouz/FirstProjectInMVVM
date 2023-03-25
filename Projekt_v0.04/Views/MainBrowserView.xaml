@@ -1,0 +1,165 @@
+<UserControl x:Class="Projekt_v0._04.Views.MainBrowserView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Projekt_v0._04.Views"
+             xmlns:MainFiles="clr-namespace:Projekt_v0._04"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="154*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="734*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" Background="Tan">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="5*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Image 
+                Grid.Row="1" 
+                Grid.Column="1"
+                Stretch="Uniform" 
+                Source="/Resources/logo_transparent.png" 
+                VerticalAlignment="Stretch" 
+                HorizontalAlignment="Stretch">
+            </Image>
+            <Button 
+                Grid.Row="3" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Wyszukiwarka hoteli"></Button>
+            <Button 
+                Grid.Row="5" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="O nas"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="ONas">
+            </Button>
+            <Button 
+                Grid.Row="7" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Logowanie"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Logowanie">
+            </Button>
+            <Button 
+                Grid.Row="9" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="20"
+                Content="Wyjście"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Wyjscie">
+            </Button>
+        </Grid>
+        <Frame 
+            Grid.Row="0" 
+            Grid.Column="1" 
+            x:Name="SeparationFrameBorder1" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="Gray"/>
+        <Frame 
+            Grid.Row="0" 
+            Grid.Column="2" 
+            x:Name="SeparationFrame" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="DarkGray"/>
+        <Frame
+            Grid.Row="0" 
+            Grid.Column="3" 
+            x:Name="SeparationFrameBorder2" 
+            HorizontalContentAlignment="Stretch" 
+            VerticalContentAlignment="Stretch" 
+            Background="Gray"/>
+        <Grid Grid.Row="0" Grid.Column="4" Background="Wheat">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="9*"/>
+                <RowDefinition Height="6*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="8*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" 
+                   Grid.Column="1" 
+                   Grid.ColumnSpan="2" 
+                   Name="LoggedUser" 
+                   Content="{Binding LoggedUser}" 
+                   ContentStringFormat="{}Użytkownik:    {0:F2}" 
+                   VerticalAlignment="Top" 
+                   VerticalContentAlignment="Top" 
+                   HorizontalAlignment="Right" 
+                   HorizontalContentAlignment="Right" 
+                   FontSize="30" FontWeight="Bold" 
+                   Opacity="0.3" 
+                   Margin=" 0 0 20 0"/>
+            <MainFiles:FilteredComboBox 
+                Grid.Row="2" 
+                Grid.Column="1" 
+                x:Name="SearchForCityComboBox" 
+                Text="{}"
+                VerticalAlignment="Stretch"
+                VerticalContentAlignment="Center"
+                FontStretch="UltraExpanded"
+                FontSize="45"
+                ItemsSource="{Binding Cities, Mode=TwoWay}"
+                SelectedItem="{Binding SelectedCity, Mode=TwoWay}"
+                DisplayMemberPath="" 
+                IsEditable="True" 
+                IsTextSearchEnabled="False" 
+                StaysOpenOnEdit="True"
+                Foreground="Gray">
+                <MainFiles:FilteredComboBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <VirtualizingStackPanel VirtualizationMode="Recycling" />
+                    </ItemsPanelTemplate>
+                </MainFiles:FilteredComboBox.ItemsPanel>
+            </MainFiles:FilteredComboBox>
+            <Button 
+                x:Name="SearchForCityButton"
+                Content="Wyszukaj mój wymarzony hotel!"
+                Command="{Binding ChangeViewCommand}"
+                CommandParameter="Szukaj"
+                Grid.Row="5" 
+                Grid.Column="1" 
+                FontStretch="UltraExpanded"
+                FontSize="45">
+            </Button>
+        </Grid>
+    </Grid>
+</UserControl>

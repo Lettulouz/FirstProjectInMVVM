@@ -1,0 +1,42 @@
+﻿<Window x:Class="Projekt_v0._04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekt_v0._04"
+        xmlns:views="clr-namespace:Projekt_v0._04.Views"
+        xmlns:viewmodels="clr-namespace:Projekt_v0._04.ViewModels"
+        xmlns:models="clr-namespace:Projekt_v0._04.Models"
+        mc:Ignorable="d"
+        Title="NicDomHotel" Height="1080" Width="1920" WindowState="Maximized" Icon="/Resources/logo_transparent.ico">
+    
+    <Window.Resources>
+        <DataTemplate x:Name="browserViewTemplate" DataType="{x:Type viewmodels:MainBrowserViewModel}">
+            <views:MainBrowserView DataContext="{Binding}"></views:MainBrowserView>
+        </DataTemplate>
+        <DataTemplate x:Name="hotelsBrowserViewTemplate" DataType="{x:Type viewmodels:HotelsBrowserViewModel}">
+            <views:HotelsBrowserView DataContext="{Binding}"></views:HotelsBrowserView>
+        </DataTemplate>
+        <DataTemplate x:Name="aboutUsViewTemplate" DataType="{x:Type viewmodels:AboutUsViewModel}">
+            <views:AboutUsView DataContext="{Binding}"></views:AboutUsView>
+        </DataTemplate>
+        <DataTemplate x:Name="loginViewTemplate" DataType="{x:Type viewmodels:LoginViewModel}">
+            <views:LoginView DataContext="{Binding}"></views:LoginView>
+        </DataTemplate>
+        <DataTemplate x:Name="hotelinfoViewTemplate" DataType="{x:Type viewmodels:HotelInfoViewModel}">
+            <views:HotelInfoView DataContext="{Binding}"></views:HotelInfoView>
+        </DataTemplate>
+        <DataTemplate x:Name="reservationViewTemplate" DataType="{x:Type viewmodels:ReservationViewModel}">
+            <views:ReservationView DataContext="{Binding}"></views:ReservationView>
+        </DataTemplate>
+        <DataTemplate x:Name="reservatioSumUpViewTemplate" DataType="{x:Type viewmodels:ReservationSumUpViewModel}">
+            <views:ReservationSumUpView DataContext="{Binding}"></views:ReservationSumUpView>
+        </DataTemplate>
+        <DataTemplate x:Name="showReservationsViewTemplate" DataType="{x:Type viewmodels:ShowReservationsViewModel}">
+            <views:ShowReservationsView DataContext="{Binding}"></views:ShowReservationsView>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <ContentControl Grid.Row="0" Grid.Column="0" Content="{Binding CurrentViewModel}"/>
+    </Grid>
+</Window>
